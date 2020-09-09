@@ -1,0 +1,10 @@
+= Glossarist database template for The Good Docs project
+
+Concept register managers: after you create an empty glossary from this template,
+please edit `roles.yaml` to set `isManager` flag on your own username!
+
+For further information, refer to link:https://www.glossarist.org/docs/adopt/2-infrastructure/[Glossarist.org].
+
+As a TGD contributor, you are welcome to use
+https://github.com/glossarist/the-good-docs-project-support[glossarist/the-good-docs-project-support] repository
+for issues or questions related to Glossarist.
