@@ -9,9 +9,9 @@
 # NOTE: This does not enforce the usage of the app in accordance with user role,
 # which must be handled with authentication, Git hooks and/or usage audits.
 
-githubUsernameGoesHere:
+techtrailhead:
   isManager: true
   isRegistryManager: true
 
-anotherGithubUsernameGoesHere:
-  isRegistryManager: true
+#anotherGithubUsernameGoesHere:
+  #isRegistryManager: true
